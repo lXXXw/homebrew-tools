@@ -1,4 +1,4 @@
-class Yourtool < Formula
+class Exapture < Formula
   desc "The most accurate screenshot tool for macOS - Capture exact pixel dimensions with a real-time cursor-following overlay."
   homepage "https://github.com/yourname/"
   url "https://github.com/yourname/yourtool/releases/download/v1.0.0/yourtool-darwin-amd64.tar.gz"
